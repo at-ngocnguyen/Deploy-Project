@@ -13,13 +13,32 @@ img {
   width: 100%;
 }
 
+a {
+  color: map-get($map: $color, $key: dark);
+
+  &:hover {
+    color: map-get($map: $color, $key: dark);
+  }
+}
+
 h2 {
   text-align: center;
-  margin: 35px auto;
   font-weight: 600;
   text-transform: uppercase;
 }
 
 .text-center {
   text-align: center;
+}
+
+.clr {
+  &::after {
+    display: block;
+    content: '';
+    clear: both;
+  }
+}
+
+main {
+  padding-top: 50px;
 }
