@@ -4985,7 +4985,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-user"]],
       decls: 13,
       vars: 1,
-      consts: [[1, "container"], [1, "row"], [1, "col-3"], ["id", "list-tab", "role", "tablist", 1, "list-group"], ["id", "list-home-list", "data-toggle", "list", "routerLink", "/user/profile", "role", "tab", "aria-controls", "home", 1, "list-group-item", "list-group-item-action", "active"], ["id", "list-profile-list", "data-toggle", "list", "routerLink", "/user/favorite", "role", "tab", "aria-controls", "profile", 1, "list-group-item", "list-group-item-action"], [1, "col-9"]],
+      consts: [[1, "container"], [1, "row"], [1, "col-lg-3", "col-sm-12", "col-xs-12"], ["id", "list-tab", "role", "tablist", 1, "list-group"], ["id", "list-home-list", "data-toggle", "list", "routerLink", "/user/profile", "role", "tab", "aria-controls", "home", 1, "list-group-item", "list-group-item-action", "active"], ["id", "list-profile-list", "data-toggle", "list", "routerLink", "/user/favorite", "role", "tab", "aria-controls", "profile", 1, "list-group-item", "list-group-item-action"], [1, "col-lg-9", "col-sm-12", "col-xs-12"]],
       template: function UserComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
