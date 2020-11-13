@@ -1774,7 +1774,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /*! ../../share/module/product/product.component */
     "./src/app/share/module/product/product.component.ts");
 
-    function HomeComponent_div_8_Template(rf, ctx) {
+    function HomeComponent_div_14_Template(rf, ctx) {
       if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 6);
 
@@ -1796,7 +1796,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
     }
 
-    function HomeComponent_div_14_Template(rf, ctx) {
+    function HomeComponent_div_20_Template(rf, ctx) {
       if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 6);
 
@@ -1818,7 +1818,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
     }
 
-    function HomeComponent_div_20_Template(rf, ctx) {
+    function HomeComponent_div_26_Template(rf, ctx) {
       if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 6);
 
@@ -1928,9 +1928,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: HomeComponent,
       selectors: [["app-home"]],
-      decls: 23,
+      decls: 28,
       vars: 3,
-      consts: [[1, "container"], [1, "category"], [1, "row"], ["class", "portfolio-page col-lg-3 col-md-6 col-sm-6 col-xs-12", "appFavorite", "", 3, "node", 4, "ngFor", "ngForOf"], ["class", "portfolio-page col-lg-3 col-md-6 col-sm-6  col-xs-12", "appFavorite", "", 3, "node", 4, "ngFor", "ngForOf"], ["src", "https://dev.turidoco.com/pages/maps-embed?lat=35.145079092558426&long=139.61296151480101&map_layers=1,2&zoom=11&display_fishing_icon=true&display_fishing_link=false&uid=000bafd1-75d5-4451-97aa-14f9bb1b215b", "width", "600", "height", "450", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], ["appFavorite", "", 1, "portfolio-page", "col-lg-3", "col-md-6", "col-sm-6", "col-xs-12", 3, "node"], [3, "product", "isLogin"]],
+      consts: [[1, "container"], ["src", "https://dev.turidoco.com/pages/maps-embed?lat=35.1326827047642&long=139.617639287323&map_layers=1,2,3&zoom=15&display_fishing_icon=true&display_fishing_link=true&uid=75f73a38-45cf-4a6c-9b0a-96632280fa86", "width", "600", "height", "450", "frameborder", "0", "allowfullscreen", "", "aria-hidden", "false", "tabindex", "0", 2, "border", "0"], [1, "category"], [1, "row"], ["class", "portfolio-page col-lg-3 col-md-6 col-sm-6 col-xs-12", "appFavorite", "", 3, "node", 4, "ngFor", "ngForOf"], ["class", "portfolio-page col-lg-3 col-md-6 col-sm-6  col-xs-12", "appFavorite", "", 3, "node", 4, "ngFor", "ngForOf"], ["appFavorite", "", 1, "portfolio-page", "col-lg-3", "col-md-6", "col-sm-6", "col-xs-12", 3, "node"], [3, "product", "isLogin"]],
       template: function HomeComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -1939,35 +1939,35 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "section", 1);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "H1");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](4, "h2");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "2");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](5, "Thu\xF4\u0301c k\xEA \u0111\u01A1n");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "sup");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](6, "app-line");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "div", 2);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](8, HomeComponent_div_8_Template, 2, 3, "div", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "nd");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "section", 1);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](7, "iframe", 1);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "div");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "section", 2);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "h2");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Thu\xF4\u0301c kh\xF4ng k\xEA \u0111\u01A1n");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Thu\xF4\u0301c k\xEA \u0111\u01A1n");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "app-line");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 3);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](14, HomeComponent_div_14_Template, 2, 3, "div", 4);
 
@@ -1975,19 +1975,37 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "section", 1);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "section", 2);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "h2");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Th\u01B0\u0323c ph\xE2\u0309m ch\u01B0\u0301c n\u0103ng");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Thu\xF4\u0301c kh\xF4ng k\xEA \u0111\u01A1n");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](18, "app-line");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](20, HomeComponent_div_20_Template, 2, 3, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](20, HomeComponent_div_20_Template, 2, 3, "div", 5);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "section", 2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "h2");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, "Th\u01B0\u0323c ph\xE2\u0309m ch\u01B0\u0301c n\u0103ng");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "app-line");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "div", 3);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](26, HomeComponent_div_26_Template, 2, 3, "div", 5);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1995,15 +2013,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "iframe", 5);
-
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "app-blogs");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "app-blogs");
         }
 
         if (rf & 2) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](8);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](14);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", ctx.tkd);
 
